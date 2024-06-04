@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="9a256bdd-5311-4124-8d1f-fbe932093bfd" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/StreamApi.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BinaryOperator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Desafios/Desafio1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Desafios/Desafio10.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Desafios/Desafio11.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Desafios/Desafio12.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Desafios/Desafio13.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Desafios/Desafio14.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Desafios/Desafio15.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Desafios/Desafio16.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Desafios/Desafio17.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Desafios/Desafio18.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Desafios/Desafio19.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Desafios/Desafio2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Desafios/Desafio3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Desafios/Desafio4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Desafios/Desafio5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Desafios/Desafio6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Desafios/Desafio7.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Desafios/Desafio9.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FunctionExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/PredicateExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SupplierExample.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 8
+}]]></component>
+  <component name="ProjectId" id="2hIScMAlRt1FdJdDUz7ZsqwShnl" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.BinaryOperator.executor": "Run",
+    "Application.Desafio1.executor": "Run",
+    "Application.Desafio10.executor": "Run",
+    "Application.Desafio11.executor": "Run",
+    "Application.Desafio13.executor": "Run",
+    "Application.Desafio14.executor": "Run",
+    "Application.Desafio15.executor": "Run",
+    "Application.Desafio16.executor": "Run",
+    "Application.Desafio17.executor": "Run",
+    "Application.Desafio18.executor": "Run",
+    "Application.Desafio19.executor": "Run",
+    "Application.Desafio2.executor": "Run",
+    "Application.Desafio3.executor": "Run",
+    "Application.Desafio4.executor": "Run",
+    "Application.Desafio5.executor": "Run",
+    "Application.Desafio6.executor": "Run",
+    "Application.Desafio7.executor": "Run",
+    "Application.Desafio9.executor": "Run",
+    "Application.FunctionExample.executor": "Run",
+    "Application.PredicateExample.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "ignore.virus.scanning.warn.message": "true",
+    "kotlin-language-version-configured": "true",
+    "onboarding.tips.debug.path": "D:/Programacao/Estudo/aulas-java/StreamApi/src/Main.java"
+  }
+}]]></component>
+  <component name="RunManager" selected="Application.Desafio19">
+    <configuration name="Desafio15" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Desafios.Desafio15" />
+      <module name="StreamApi" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Desafios.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Desafio16" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Desafios.Desafio16" />
+      <module name="StreamApi" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Desafios.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Desafio17" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Desafios.Desafio17" />
+      <module name="StreamApi" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Desafios.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Desafio18" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Desafios.Desafio18" />
+      <module name="StreamApi" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Desafios.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Desafio19" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Desafios.Desafio19" />
+      <module name="StreamApi" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Desafios.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Desafio19" />
+        <item itemvalue="Application.Desafio18" />
+        <item itemvalue="Application.Desafio17" />
+        <item itemvalue="Application.Desafio16" />
+        <item itemvalue="Application.Desafio15" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9a256bdd-5311-4124-8d1f-fbe932093bfd" name="Changes" comment="" />
+      <created>1717280179222</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1717280179222</updated>
+    </task>
+    <servers />
+  </component>
+</project>
